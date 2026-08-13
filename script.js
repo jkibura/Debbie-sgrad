@@ -68,7 +68,7 @@ function renderGallery() {
     fig.className = "polaroid";
 
     const img = document.createElement("img");
-    img.src = `/assets/${p.file}`;
+    img.src = `assets/${p.file}`;
     img.alt = p.caption || "";
     img.loading = "lazy";
     img.onerror = () => {
