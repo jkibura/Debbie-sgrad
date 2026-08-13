@@ -33,17 +33,17 @@ const MESSAGES = [
     message: "Congratulations Debbie dear🥳🎉🥹 I'm so happy for you. Honestly it is such a big accomplishment to be able to finish school and graduate🤭🤭. God has been gracious to you and will continue filling your life with wonderful unimaginable blessings. Sahi nikitembea watu watajua I have a friend who is an amazing pastor 💃🏾💃🏾💃🏾I honestly wish you all the best as you close this chapter and open a new one. I pray for a smooth transition as you continue being the wonderful,kind and gorgeous woman that you are. Thank you for allowing me to share this very important day with you🥹🥹 I'm very honoured to be your friend🤭🫶🏾"
   },
   {
-    from: "Mwende ❤️",
+    from: "With love, Mwende ❤️",
     message: `Hey Debbie 🥰
 Congratulations 🎉❤️ congratulations 🎉 . My goodness ☺️today is a beautiful reminder of how far you’ve come and how much your hard work, patience, and determination have paid off. I’m genuinely proud of you and so happy to celebrate this special achievement with you. Keep believing in yourself and reaching for your dreams—you are capable of amazing things. This is only the beginning of greater victories ahead. Once again, Congratulations 🥳🎓❤️✨
-With love,`
+`
   },
   {
-    from: "Baraka 😊 ",
-    message: `Hey Debbie, I'll leave you with this
-Numbers 6:24-26
-I love you very much 
-Yours truly,`
+    from: "Yours truly, Baraka 😊 ",
+    message: `Hey Debbie, I'll leave you with this:
+Numbers 6:24-26.
+I love you very much. 
+`
   },
   {
     from: `Bemmy`,
@@ -56,6 +56,42 @@ Cheers to the laughter you bring to the world, and the tears that you wipe off o
   {
     from: "From Fabian",
     message: `Congratulations on your graduation Debbie. I pray that your path beyond graduation may be decorated with blessings, strength and abundant grace! Keep going Debbie 🥳`
+  },
+  {
+    from: "Ash",
+    message: `Debbie, it’s a joy to celebrate this far you’ve come and being part of the many people whom you inspire. Truly, your love for God is abundant and you are always striving to share the light to those around and beyond you.  That is truly inspiring. As you begin this new chapter, may the Lord give you strength to continue His works and encourage us as you always do in bible study.
+Your fellow Park Bo-gum lover,`
+  },
+  {
+    from: "Anita",
+    message: `Hey Debbie! (I’d love to refer to you that way, since that’s how you introduced yourself back at the meetup on April 4th!)
+​I’m so thrilled for you! 🥳 A brand-new chapter unlocked, full of exciting experiences waiting for you to jump into.
+​Wishing you all the very best with this amazing milestone—may it be filled with God's blessings and grace. 😌🙌🏻🫶🏻
+​Congratulations again, Debbie! 🌸`
+  },
+  {
+    from: "Seok Hoonah✌🏼",
+    message: `Congratulations, graduate! 🎓🪷
+
+Some people pass through your life; others quietly leave it better than they found it. You’re the latter. You’re intentional, brilliant, resilient, deeply rooted in your faith, endlessly goofy, sweet, and just the right amount of delusional 😂—and somehow, that beautiful smile of yours makes all of it even more contagious.
+
+You’ve taught me things without always meaning to: to look at life differently, to hold firmly to what matters, and to keep showing up even when things aren't easy. I genuinely admire that about you.
+
+My favourite K-drama character, Seol-a, has officially completed this arc. 😂 And if life is a chessboard, I hope you keep making those quiet, intentional moves that eventually leave everyone wondering how you got so far ahead. ♟️
+
+Keep your faith. Keep your heart. Keep that smile. And please, never become too normal. 😄
+
+I’m genuinely happy for you, proud of you, and grateful I got to know you along the way.
+
+Congratulations, Debbie. You’ve earned this moment—and I have a feeling your best chapters are still unwritten. 🤍🎻`
+  },
+  {
+    from: `✨From Emily✨`,
+    message: `Congratulations on your graduation Debbie!!! 🥹🎓❤️ It’s such a beautiful thing to see you reach this amazing milestone😌, and I’m genuinely so happy to celebrate this special moment with you😊. It was such a blessing getting to know you through our Bible study, and I’m grateful that we get to witness and celebrate this achievement together.🥳
+
+As you step into this new chapter, may God continue to guide your steps, give you wisdom in every decision you make, bless the work of your hands and open doors beyond what you could ever imagine. May He fill this next season with purpose, joy, growth and countless blessings. Keep trusting Him and remember that His plans for you are always good.🫴🏼
+
+Congratulations once again! Here’s to many more wins, beautiful opportunities and even greater achievements!!! I'm so proud of you Debbie!!!🥹🎓✨❤️🙏🏽`
   }
 ];
 
