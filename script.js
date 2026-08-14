@@ -92,6 +92,42 @@ Congratulations, Debbie. You’ve earned this moment—and I have a feeling your
 As you step into this new chapter, may God continue to guide your steps, give you wisdom in every decision you make, bless the work of your hands and open doors beyond what you could ever imagine. May He fill this next season with purpose, joy, growth and countless blessings. Keep trusting Him and remember that His plans for you are always good.🫴🏼
 
 Congratulations once again! Here’s to many more wins, beautiful opportunities and even greater achievements!!! I'm so proud of you Debbie!!!🥹🎓✨❤️🙏🏽`
+  },
+  {
+    from: "Erima",
+    message: `Ohhhh it's coming alright!`
+  },
+  {
+    from: "Kipsang",
+    message: `Ohhhh it's coming alright!`
+  },
+  {
+    from: "Malkia",
+    message: `Ohhhh it's coming alright!`
+  },
+  {
+    from: "Freddie",
+    message: `Ohhhh it's coming alright!`
+  },
+  {
+    from: "Eunice",
+    message: `Ohhhh it's coming alright!`
+  },
+  {
+    from: "Martin",
+    message: `Ohhhh it's coming alright!`
+  },
+  {
+    from: "Jared",
+    message: `Ohhhh it's coming alright!`
+  },
+  {
+    from: "Linda",
+    message: `Ohhhh it's coming alright!`
+  },
+  {
+    from: "Jesse",
+    message: `Wacha nimalizie hapa niandike😭!`
   }
 ];
 
